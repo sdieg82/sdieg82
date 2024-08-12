@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diego Sánchez</h1>
-<h3 align="center">A passionate javascript developer from Ecuador</h3>
+<h3 align="center">A passionate javascript developer from Ambato - Ecuador</h3>
 
-- 🔭 I’m currently working on IMPACTEX CIA LTDA **Impactex**
+- 🔭 I’m currently working on COOP "MUSHUC RUNA" 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sdieg82](https://github.com/sdieg82)
 
 - 📫 How to reach me **sedifab@gmail.com**
+
+- ☕ I invite you for a walk and a coffee through my web portfolio at https://itsmediego.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
