@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego Sánchez</h1>
 <h3 align="center">A passionate javascript developer from Ambato - Ecuador</h3>
 
-- 🔭 I’m currently working on COOP "MUSHUC RUNA" 
+- 🔭 I’m currently working on COOPERATIVA AMBATO 
 
 - 👨‍💻 All of my projects are available at [https://github.com/sdieg82](https://github.com/sdieg82)
 
